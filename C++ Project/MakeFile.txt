@@ -1,0 +1,3 @@
+build:
+
+g++ -o Project2Again "src/main.cpp"
